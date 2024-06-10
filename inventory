@@ -1,1 +1,5 @@
+[web_servers]
 home-vm1@192.168.1.187
+
+[db_servers]
+home-vm2@192.168.1.179
